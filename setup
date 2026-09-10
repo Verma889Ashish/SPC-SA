@@ -1,0 +1,3 @@
+Pre-requisites: #Install 
+#[Visual Studio] (https://code.visualstudio.com/docs/setup/setup-overview) 
+#[numpy] (pip install tqdm pandas numpy)
